@@ -1,0 +1,22 @@
+.heading{
+    width:80%;
+    font-size: 36px;
+}
+
+body{
+    background-color: #50eba2;
+    color: #fa7e25;
+    font-size: large;
+}
+
+#camera{
+    width:350px;
+    height:300px;
+    border: 2px dashed  ;
+}
+
+#result{
+    width:350px;
+    height:300px;
+    border: 2px dashed  ;
+}
